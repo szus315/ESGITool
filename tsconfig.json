@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "ES6",
+    "lib": [
+      "es6",
+      "scripthost",
+      "es2015.promise"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
